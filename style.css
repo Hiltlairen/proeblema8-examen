@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+    margin: 100px;
+}
+button{
+    color: red;
+}
+h1{
+    color: red;
+    background-color: yellow;
+}
+h2{
+    color:white;
+}
+section{
+    background-color: blueviolet;
+}
